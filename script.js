@@ -13,5 +13,3 @@ function sendMessage()
   
     document.getElementById("typing-box").value = "";
 }
-
-</script>
