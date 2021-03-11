@@ -1,4 +1,5 @@
-<script type="type/javascript">
+sendMessage();
+
 function sendMessage()
 {
     var message = document.getElementById("typing-box").value;
