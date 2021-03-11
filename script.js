@@ -1,3 +1,4 @@
+<script type="type/javascript">
 function sendMessage()
 {
     var message = document.getElementById("typing-box").value;
@@ -11,3 +12,5 @@ function sendMessage()
   
     document.getElementById("typing-box").value = "";
 }
+
+</script>
