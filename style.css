@@ -51,7 +51,7 @@
 body{
     opacity:1;
     background-image:url(https://i.pinimg.com/736x/7b/dc/4f/7bdc4f4f53fe35c4417e1f91c0499c0f.jpg);
-    background-size: auto;
+    background-size: cover;
 cursor:url(http://www.fillster.com/myspace-cursors/35.cur), url(http://www.fillster.com/myspace-cursors/35.gif),pointer !important;
 }
 
